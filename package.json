@@ -55,7 +55,7 @@
     "gulp-run-sequence": "^0.3.2",
     "gulp-zip": "^4.1.0",
     "muse-ui": "^2.1.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "ramda": "^0.26.1",
     "sass-loader": "^6.0.7",
     "style-loader": "^0.13.1",
